@@ -60,3 +60,5 @@ while (agregarProducto) {
     agregarProducto = false;
   }
 }
+
+alert('Tus productos han sido agregados con éxito.');
