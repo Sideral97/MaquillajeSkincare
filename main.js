@@ -61,4 +61,4 @@ while (agregarProducto) {
   }
 }
 
-alert('Tus productos han sido agregados con éxito.');
+alert('Tus productos se agregaron con éxito.');
